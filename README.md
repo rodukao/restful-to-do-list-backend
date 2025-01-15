@@ -21,8 +21,8 @@ A simple RESTful API for managing a to-do list using Node.js, Express, and Mongo
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/restful-api-todo.git
-   cd restful-api-todo
+   git clone https://github.com/your-username/restful-to-do-list-backend
+   cd restful-to-do-list-backend
    ```
 
 2. Install dependencies:
